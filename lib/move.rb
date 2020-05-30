@@ -10,14 +10,5 @@ end
 
 user_input = ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
 
-"1", "2", "3", "4", "5", "6", "7", "8", "9".to_i 
 
-converted_input = input_to_index(user_input)
-
-def input_to_index(user_input)
-  
-  
-def move(board, )
-  
-  def update_array_at_with()
   
