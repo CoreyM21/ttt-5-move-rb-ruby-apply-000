@@ -15,5 +15,6 @@ def input_to_index(user_input)
 end 
 
 def move(index, board, value = "X, O")
+  
 
   
